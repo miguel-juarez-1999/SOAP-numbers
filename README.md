@@ -14,4 +14,15 @@
 * **URL de prueba:** [http://localhost:8000/conintl?n=10](http://localhost:8000/conintl?n=10)
 
 
+## 🔵 2. .NET 10
 
+### Versión 1: Cliente SOAP Básico
+* **Ruta local:** `dotnet/v1_soap_client/Program.cs` (Puerto 8000)
+* **URL de prueba:** [http://localhost:8000/clisoap1?n=10](http://localhost:8000/clisoap1?n=10)
+
+
+### Versión 2: Cliente SOAP con Traducción
+* **Ruta local:** `dotnet/v2_soap_translation/Program.cs` (Puerto 8000)
+* **URL de prueba:** [http://localhost:8000/clisoap2?n=10](http://localhost:8000/clisoap2?n=10)
+
+---

@@ -1,0 +1,6 @@
+@v1_soap_client_HostAddress = http://localhost:5105
+
+GET {{v1_soap_client_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
