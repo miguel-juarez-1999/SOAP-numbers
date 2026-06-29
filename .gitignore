@@ -1,0 +1,21 @@
+# --- Node.js ---
+node_modules/
+
+# --- .NET 10 ---
+bin/
+obj/
+
+# --- Java ---
+*.class
+target/
+
+# --- Golang ---
+*.exe
+*.out
+
+# --- Rust ---
+/target/
+
+# --- Ruby y Perl ---
+.bundle/
+_build/
